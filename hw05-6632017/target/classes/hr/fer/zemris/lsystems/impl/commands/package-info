@@ -1,0 +1,3 @@
+Paket sadrži sve naredbe koje  kornjače mora biti u stanju izvršiti. 
+Svaka naredba modelirana je jednim razredom smještenimu u ovom paketu.
+Svaki razred implementira sučelje Command
